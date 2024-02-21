@@ -1,4 +1,4 @@
-# DWDM-Model-Lab
+# Data Warehousing and Data Mining -Model-Lab
 
 ### Classification is done on placement dataset.
 ### The pdf contains the attribute info and type
